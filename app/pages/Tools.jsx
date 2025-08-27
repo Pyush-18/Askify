@@ -4,7 +4,7 @@ import YouWebTool from './YouWebTool'
 
 function Tools() {
   return (
-    <div className='p-4'>
+    <div className="space-y-4 p-2 sm:p-3 md:p-4">
         <FileUpload />
         <YouWebTool />
     </div>
